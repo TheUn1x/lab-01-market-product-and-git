@@ -109,3 +109,7 @@ Kafka Event Bus — в Message Broker Cluster, используется для �
 Yandex Go: "I assume the pricing service handles surge pricing calculations based on demand and supply in real-time."
 
 Yandex Go: "How does the actual load balancing mechanism work between the microservices in production?"
+
+Yandex Go: "I assume the pricing service handles surge pricing calculations based on demand and supply in real-time."
+
+Telegram: "I assume the cloud storage system implements deduplication to optimize storage costs for shared media files."
